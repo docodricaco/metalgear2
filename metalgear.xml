@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metalgear>
+
+<videojuego unidadesvendidas="786" id="0">Metal Gear Solid</videojuego>
+
+<videojuego unidadesvendidas="721" id="1">Metal Gear Solid 2: Sons of Liberty</videojuego>
+
+<videojuego unidadesvendidas="502" id="2">Metal Gear Solid 3: Snake Eater</videojuego>
+
+<videojuego unidadesvendidas="578" id="3">Metal Gear Solid 4: Guns of the Patriots</videojuego>
+
+<videojuego unidadesvendidas="235" id="4">Metal Gear Solid V: Ground Zeroes</videojuego>
+
+<videojuego unidadesvendidas="507" id="5">Metal Gear Solid V: The Phantom Pain</videojuego>
+
+</metalgear>
